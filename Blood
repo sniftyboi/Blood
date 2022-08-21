@@ -84,8 +84,6 @@ local Window = Library.CreateLib("test", "BloodTheme")
 	 end)
 
 	 
-	 local Other = Window:NewTab("Gui Theme")
-	 local OtherSection = Other:NewSection("Gui Theme(buggy, close the original window after u choose")
 	 
 	 --Credit
 		 local Other = Window:NewTab("Credit")
